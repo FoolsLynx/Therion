@@ -1,1 +1,36 @@
-Therion Mod is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Therion Mod adds a new class type to the game called: Therion. There are also Therion Items and Weapons that utilise this type.
+
+The Therion Class is a hardmode only class that introduces the "Therion Energy" as a new resource type that is used by Therion weapons. Upon pressing right click with your Therion weapon, you will gain a buff that will give you incredible power with these weapons. For example, the Therion Burst Buff will greatly increase your damage output and knockback for a short time (normally about 30 seconds). 
+
+In order to get your hands on these weapons, you will need to find "Therion Crystals" that can be found in chests that are scattered across the world. Then, you will need a mythril or orichalcum anvil. Each of the Therion Weapons requires 10 crystals (except the dagger which requires less). 
+
+There are 8 Therion Weapons you can craft:
+- Therion Blade: Abyssion
+- Therion Spear: Soul Eater
+- Therion Bow: Nebilim
+- Therion Scythe: Gates of Hell
+- Therion Dagger: Fafnir
+- Therion Gun: Disaster
+- Therion Flail: Diablos
+- Therion Yoyo: Heart of Chaos
+
+There are also some bonus weapons that are much harder to obtain. 
+
+For example:
+Therion Arm: Lethal Pain can only be obtained from the new travelling merchant, however, only if the merchant is called "Velvet" will you get this weapon.
+
+A new herb called the Therion Drop has been added to the game, this plant doesn't grow naturally and you will need to get the seeds from the Dryad. Plant them in Grass and overtime they will grow and you can harvest them.
+This herb is used in the base potion of the mod called the Swiftsoul Potion which will increase the regen rate of Therion Energy. This potion can be fairly weak but can be upgraded into the high risk, high reward potion, Equilibrium. This potion will drain your health but give you Therion Energy in exchange.
+
+The following accessories exist and can be obtained from the Travelling merchant:
+- Band of the Therion - Regenerates Therion Energy 50% faster.
+- Rough Belt - Increases Therion Damage by 20%.
+
+To be added:
+
+Therion Armour Set - Will Increase the Max Therion Energy from 1000 to 2000
+Therion Accessories - Increase Max Therion Energy, Increase Therion Crit, etc.
+Therion Wings - Just some awesome wings fit for the Therion Class
+
+Sacrificial Alter - Will be used to summon a boss which will hold an item required for the Therion Blade: Impulse Desire.
+
